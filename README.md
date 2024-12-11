@@ -19,4 +19,4 @@ implementación de un sistema en ROS que permite al robot móvil realizar movimi
 
 # Esquema Electrico de coneccion
 
-![image](https://github.com/user-attachments/assets/082068a9-9d78-4d23-b677-b766d638e391)
+![image](https://github.com/user-attachments/assets/f2daaf5c-47eb-4df1-99ad-a54d7999ee25)
