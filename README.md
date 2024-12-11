@@ -1,2 +1,2 @@
 # Robot
-Robot que lee codigos arucos, y recibe ordenes usando una esp32 con microros y una raspberry con ros, mediante una coneccion UDP
+implementación de un sistema en ROS que permite al robot móvil realizar movimientos autónomos basados en deteccion de marcas visuales (aruco).
